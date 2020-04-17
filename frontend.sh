@@ -1,0 +1,1 @@
+java  -Xdebug -Xrunjdwp:transport=dt_socket,address=9000,server=y,suspend=n -DAPP_GREETING_NAME=frontend_start_sh_command_line -jar /mnt/c/zliu/k8s/telepresence/frontend/build/libs/frontend-0.0.1-SNAPSHOT.jar

@@ -1,0 +1,1 @@
+java  -Xdebug -Xrunjdwp:transport=dt_socket,address=8000,server=y,suspend=n -DAPP_GREETING_NAME=backend_start_sh_command_line -jar /mnt/c/zliu/k8s/telepresence/backend/build/libs/backend-0.0.1-SNAPSHOT.jar
